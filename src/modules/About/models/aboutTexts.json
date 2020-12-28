@@ -1,0 +1,34 @@
+{
+    "about": {
+        "header": "It's Your Turn To Start a Podcast",
+        "descriptions": [
+            {
+                "text": "Come Join the Audio Revolution.",
+                "bold": true
+            },
+            {
+                "text": "The seeds for Messy were planted years ago when our founder Molly Beck graduated college and started a blog as part of the first wave of the blogging revolution. The reason she was able to start a blog is because sites like Wordpress existed: their platform took care of the technical aspects of starting a blog so that she only needed to think about what she was going to write."
+            },
+            {
+                "text": "Jumping forward to 2016, Molly was working at Forbes launching Forbes Podcasts. Aspiring podcasters kept sharing with her the great ideas they had for their own podcast, but when she would follow up with them weeks later and ask when their show was launching, the answer almost always came back “I gave up...it just seemed too hard to start a podcast.” The many confusing technical tools aspiring podcasters needed to learn was turning many wannabe podcasters off, locking hundreds of thousands of valuable voices out of the medium."
+            },
+            {
+                "text": "So Molly started thinking:"
+            },
+            {
+                "text": "Where was the Wordpress of podcasting? Where was the platform that would handle the technical pieces of creating a podcast so all podcasters had to do was plan out what they wanted to say?"
+            },
+            {
+                "text": "Welcome to Messy.",
+                "bold": true
+            },
+            {
+                "text": "Without ever leaving this platform, you can record, edit, publish, publicize, and monetize your new podcast."
+            },
+            {
+                "text": "The audio revolution is here - and you are now a part of it."
+            }
+        ]
+    },
+    "join": ["We are waiting for your story, your brand, your mission, your voice.", "We are waiting for you."]
+}

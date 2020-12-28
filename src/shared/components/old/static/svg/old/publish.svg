@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 137.5 137.5" style="enable-background:new 0 0 137.5 137.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FF6700;}
+	.st2{display:inline;fill:#E55C00;}
+	.st3{display:inline;}
+	.st4{fill:#F1F1F1;stroke:#F1F1F1;stroke-width:0.9534;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#F1F1F1;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#F1F1F1;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#F1F1F1;}
+	.st8{fill:#FFB000;}
+	.st9{fill:#E89400;}
+	.st10{fill:#F1F1F1;stroke:#F1F1F1;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#F1F1F1;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1" class="st0">
+	<circle class="st1" cx="-155.2" cy="67.7" r="68.8"/>
+	<path class="st2" d="M-87,76.4c-4.3,33.9-33.2,60-68.2,60c-1.4,0-2.9,0-4.3-0.1l-31.9-31.9h21.7v-18l-1.1-0.7l-15.7-15.4l20.7-18.8
+		l17.6,5.8l21.1-21L-87,76.4z"/>
+	<g class="st3">
+		<circle class="st4" cx="-131.5" cy="40.6" r="5.5"/>
+		<circle class="st4" cx="-148.5" cy="57.6" r="5.5"/>
+		<circle class="st4" cx="-165.1" cy="51.6" r="5.5"/>
+		<circle class="st4" cx="-182.2" cy="66.1" r="5.5"/>
+		<polyline class="st5" points="-182.2,65.8 -165.1,51 -148.5,57.6 -131.2,39.9 		"/>
+		<line class="st6" x1="-190.3" y1="103.4" x2="-123" y2="103.4"/>
+		<path class="st7" d="M-176.4,102.5V86.8c0-1.2-1-2.3-2.3-2.3h-6.6c-1.2,0-2.3,1-2.3,2.3v15.7H-176.4z"/>
+		<path class="st7" d="M-159.7,103V73.2c0-1.2-1-2.3-2.3-2.3h-6.6c-1.2,0-2.3,1-2.3,2.3v29.7L-159.7,103z"/>
+		<path class="st7" d="M-142.6,102.5V78.8c0-1.2-1-2.3-2.3-2.3h-6.6c-1.2,0-2.3,1-2.3,2.3v23.6L-142.6,102.5z"/>
+		<path class="st7" d="M-126,102.4V62.2c0-1.2-1-2.3-2.3-2.3h-6.6c-1.2,0-2.3,1-2.3,2.3v40.3L-126,102.4z"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<circle class="st8" cx="68.8" cy="68.8" r="68.8"/>
+	<path class="st9" d="M92.3,133.4c23.7-8.6,41.2-29.9,44.6-55.6L94.9,36L76,50.2L43,69l-7.6,7.8L92.3,133.4z"/>
+	<circle class="st10" cx="86" cy="44.8" r="11.6"/>
+	<circle class="st10" cx="44.6" cy="68.1" r="11.6"/>
+	<circle class="st10" cx="86.1" cy="91.6" r="11.6"/>
+	<polyline class="st11" points="86,44.8 44.1,68.5 86.7,92.8 	"/>
+</g>
+</svg>

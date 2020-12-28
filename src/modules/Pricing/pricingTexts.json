@@ -1,0 +1,94 @@
+{
+    "common": {
+        "notifications": {
+            "notLoggedInNotification": {
+                "message": "Please Sign In Before Upgrading Your Features.",
+                "description": ""
+            },
+            "onSuccessfullTransaction": {
+                "message": "Transaction processed successfully!",
+                "description": ""
+            }
+        }
+    },
+    "firstLook": {
+        "header": "Pricing",
+        "description": "Recording, Editing & Publishing Your Podcast Is Free With Unlimited Bandwith.",
+        "subdescription": "Want More? Upgrade Here."
+    },
+    "bundlesPicker": {
+        "periods": ["3 months", "6 months", "12 months"],
+        "bundles": [
+            {
+                "name": "Access to Analytics",
+                "plan_id": "basic",
+                "description": "When you create a podcast on Messy, we also host your podcast's RSS feed for you. That means we can tell you every time your podcast is played anywhere, whether on Messy, Apple Podcasts, Spotify, or any other place listeners find your podcast. Buying this feature means you will know the total number of listens your podcast gets across every platform, easily accessible in one place, broken down by episode and date. This makes it easy to celebrate your podcast's audience growing, share your analytics with potential sponsors, and see which episodes your listeners love.",
+                "options": [
+                    { "timePeriod": "3 months", "value": 15 },
+                    { "timePeriod": "6 months", "value": 29 },
+                    { "timePeriod": "12 months", "value": 57 }
+                ]
+            },
+            {
+                "name": "Messy Ad Removal",
+                "plan_id": "ad_removal",
+                "description": "Every podcast created on Messy has a six-second ad for Messy automatically inserted at the beginning of the podcast. Buying this packages automatically removes the Messy ad from all future episodes of your show.",
+                "options": [
+                    { "timePeriod": "3 months", "value": 15 },
+                    { "timePeriod": "6 months", "value": 29 },
+                    { "timePeriod": "12 months", "value": 57 }
+                ]
+            },
+            {
+                "name": "Access to Analytics + Ad Removal",
+                "plan_id": "premium",
+                "description": "This package both allows access to your analytics and removes the Messy.fm promotional ad from your show.",
+                "options": [
+                    { "timePeriod": "3 months", "value": 27 },
+                    { "timePeriod": "6 months", "value": 51 },
+                    { "timePeriod": "12 months", "value": 99 }
+                ]
+            },
+            {
+                "name": "Embed Podcast Into Another Website",
+                "plan_id": "embed_podcast",
+                "description": "After you have purchased this subscription, your podcast embed code will be visible under the \"Settings\" tab in \"My Podcasts\" when you are logged into your Messy account.",
+                "options": [
+                    { "timePeriod": "3 months", "value": 15 },
+                    { "timePeriod": "6 months", "value": 25 },
+                    { "timePeriod": "12 months", "value": 50 }
+                ]
+            }
+        ]
+    },
+    "packagesPicker": [
+        {
+            "pre": "Do you need a coach to answer all your launch questions so your first episode is published as smoothly as possible?",
+            "value": 75,
+            "name": "Launch Package",
+            "plan_id": "launch",
+            "description": "30 minutes of podcast coaching to help you launch your show: from thinking through a show name and theme, developing an ideal guest list, answering any technical questions, and help you develop a launch marketing strategy to get your first episodes live with a splash."
+        },
+        {
+            "pre": "Do you have at least three episodes live and want to know how to attract even more listeners?",
+            "value": 75,
+            "name": "Growth Package",
+            "plan_id": "growth",
+            "description": "30 minutes of podcast coaching to help you grow your show: developing strategies to engage current listeners, figuring out a social media and newsletter promotion schedule, and leveraging other podcasts and offline events to help find new listeners for your show."
+        },
+        {
+            "pre": "Do you want personalized advice on how to make money from your podcast?",
+            "value": 75,
+            "name": "Monetization Package",
+            "plan_id": "monetization",
+            "description": "30 minutes of podcast coaching to help you make money from your show: an overview of different types of podcast advertising you can run (affiliate, CPM, etc.), developing a strategy to approach brands, and help writing a custom pitch email and sponsorship deck."
+        },
+        {
+            "pre": "Do you want an expert to guide you through the launch, growth, and monetization phases of your show?",
+            "value": 200,
+            "name": "The Complete Podcast Coaching Experience",
+            "plan_id": "complete",
+            "description": "Purchasing this package entitles you to three separate 30 minute sessions with one of our podcast coaches, focused on launching, growing, and monetizing your show."
+        }
+    ]
+}

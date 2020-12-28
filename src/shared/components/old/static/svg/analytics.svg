@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 137.5 137.5" style="enable-background:new 0 0 137.5 137.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.15;fill:#7A8441;}
+	.st2{fill:#F1F1F1;stroke:#F1F1F1;stroke-width:0.9534;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#F1F1F1;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#F1F1F1;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:#F1F1F1;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="68.75" x2="137.5" y2="68.75">
+	<stop  offset="0" style="stop-color:#E5EF55"/>
+	<stop  offset="1" style="stop-color:#8EA63D"/>
+</linearGradient>
+<circle class="st0" cx="68.75" cy="68.75" r="68.75"/>
+<path class="st1" d="M136.95,77.47c-4.29,33.85-33.19,60.03-68.2,60.03c-1.44,0-2.87-0.04-4.29-0.13l-31.9-31.9h21.67V87.47
+	l-1.09-0.67L37.45,71.38l20.72-18.76l17.58,5.83L96.87,37.5L136.95,77.47z"/>
+<g>
+	<circle class="st2" cx="92.5" cy="41.63" r="5.54"/>
+	<circle class="st2" cx="75.46" cy="58.63" r="5.54"/>
+	<circle class="st2" cx="58.86" cy="52.69" r="5.54"/>
+	<circle class="st2" cx="41.78" cy="67.19" r="5.54"/>
+	<polyline class="st3" points="41.75,66.83 58.83,52.08 75.46,58.63 92.75,41 	"/>
+	<line class="st4" x1="33.67" y1="104.46" x2="100.96" y2="104.46"/>
+	<path class="st5" d="M47.59,103.58V87.9c0-1.24-1.01-2.25-2.25-2.25h-6.62c-1.24,0-2.25,1.01-2.25,2.25v15.68H47.59z"/>
+	<path class="st5" d="M64.27,104.02V74.21c0-1.24-1.01-2.25-2.25-2.25H55.4c-1.24,0-2.25,1.01-2.25,2.25v29.75L64.27,104.02z"/>
+	<path class="st5" d="M81.4,103.52V79.84c0-1.24-1.01-2.25-2.25-2.25h-6.62c-1.24,0-2.25,1.01-2.25,2.25v23.62L81.4,103.52z"/>
+	<path class="st5" d="M98.02,103.42v-40.2c0-1.24-1.01-2.25-2.25-2.25h-6.62c-1.24,0-2.25,1.01-2.25,2.25v40.29L98.02,103.42z"/>
+</g>
+</svg>

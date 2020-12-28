@@ -1,0 +1,97 @@
+{
+    "common": {
+        "start": "Start Podcasting Now"
+    },
+    "firstLook": {
+        "header": "Life's Messy. Podcasting Doesn't Have to Be.",
+        "description": "The All-in-One Podcasting Solution for Businesses, Brands, & Everyone Ready to Share Their Voice"
+    },
+    "mainFeatures": [
+        {
+            "title": "Start your podcast today",
+            "description": "Recording, editing, and publishing is free on Messy with unlimited episodes. There is no expensive microphone, studio time, or approval process required.",
+            "icon": "start"
+        },
+        {
+            "title": "Record where you want",
+            "description": "Messy’s Recording Studio will capture your audio perfectly. Our software uses your desktop computer’s default microphone, so no need to buy an expensive microphone\u00A0...unless you want to. Or prefer to use another recording platform? Just upload the audio to Messy once you are done.",
+            "icon": "record"
+        },
+        {
+            "title": "Editing made easy",
+            "description": "Easily edit your recordings by cutting out awkward pauses, fading in and out of segments, and adding music with our drag-and-drop editor.",
+            "icon": "edit"
+        }
+    ],
+    "extraFeatures": {
+        "header": "What else?",
+        "cards": [
+            {
+                "title": "Add music",
+                "description": "Our Music Library is full of exclusive, attribution-free tracks you can use as intro, outro, or segment transition.",
+                "icon": "music"
+            },
+            {
+                "title": "Host your RSS feed",
+                "description": "Unlimited hosting, no matter how often you publish (daily shows are in now) or how long each episode is.",
+                "icon": "rss"
+            },
+            {
+                "title": "Publish your show",
+                "description": "Make sure your podcast is everywhere your listeners are: Apple Podcasts, Google Podcasts, Spotify, and more.",
+                "icon": "publish"
+            },
+            {
+                "title": "Get analytics",
+                "description": "Always know the total number of listens your podcast gets across every platform, divided by episode and date.",
+                "icon": "analytics"
+            },
+            {
+                "title": "Make money",
+                "description": "Listener Support lets your fans support your work so you only need to think about creating great content.",
+                "icon": "money"
+            },
+            {
+                "title": "Promote your show",
+                "description": "Reach more listeners when your show is featured as a Top\u00A0&\u00A0Trending or Can’t Miss Show on Messy.",
+                "icon": "promote"
+            },
+            {
+                "title": "Private podcasting",
+                "description": "Make your podcast password-protected so only certain listeners can listen, like your employers or friends.",
+                "icon": "protect"
+            },
+            {
+                "title": "Embed your podcast",
+                "description": "Already have a website? We make it easy for your site visitors to listen to your podcast without ever leaving it.",
+                "icon": "embed"
+            }
+        ]
+    },
+    "moreSupport": {
+        "title": "Want more support?",
+        "description": "The Messy team is here to help.",
+        "packagesButton": "Learn about our 1-on-1 Podcast Coaching Packages",
+        "serviceButton": "Learn About Our Podcast Agency for Businesses & Influencers"
+    },
+    "testimonials": [
+        {
+            "author": "Amina",
+            "testimonial": "Messy is a cost-effective way to make a top-quality podcast. I’ve never made a podcast before, yet using Messy has made it incredibly easy. The Messy team responds quickly if you have questions and you can genuinely tell that they care about making sure your project is successful.",
+            "showTitle": "Third Space Thoughts to Policy",
+            "link": "https://www.messy.fm/show/1870"
+        },
+        {
+            "author": "Carrie and Taryn",
+            "testimonial": "We initially chose Messy because of it's super user-friendly interface. We were not intimidated at all by the editing or recording tools. Messy allows us to focus more on our content, and to just get after our goals.",
+            "showTitle": "Audacity Rising",
+            "link": "https://www.messy.fm/show/1431"
+        },
+        {
+            "author": "Dawnette",
+            "testimonial": "As the host of my show, I get to pick the voices that are heard and we hold nothing back. I love to hear the feedback on how impactful my show has become on a global scale. Using Messy, it’s been easy to maneuver and integrate into other platforms.",
+            "showTitle": "A New Dawn",
+            "link": "https://www.messy.fm/a_new_dawn_humanizing_mental_health"
+        }
+    ]
+}
